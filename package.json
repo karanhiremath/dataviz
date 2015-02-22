@@ -1,0 +1,23 @@
+{
+  "name": "dataviz",
+  "version": "0.0.0",
+  "description": "Wharton Dataviz Hackathon Project",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/karanhiremath/dataviz.git"
+  },
+  "author": "Karan Hiremath, Tim Miller, Monica Wojciechowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karanhiremath/dataviz/issues"
+  },
+  "homepage": "https://github.com/karanhiremath/dataviz"
+}
